@@ -8,7 +8,7 @@
      (radical, dracula, dark, gruvbox, catppuccin_mocha, onedark, ...).
 -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Emmanuel👋</h1>
 <p align="center">
   Full-Stack Software Engineer · Building secure web, mobile & AI-integrated applications
   <br/>
